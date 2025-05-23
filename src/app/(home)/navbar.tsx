@@ -57,7 +57,7 @@ export const Navbar = () => {
 				href="/"
 				className="pl-6 flex items-center">
 				<span className={cn("text-5xl font-semibold", poppins.className)}>
-					faisal
+					faisalhrbk
 				</span>
 			</Link>
 			<NavbarSidebar
