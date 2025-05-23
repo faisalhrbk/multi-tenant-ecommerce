@@ -13,7 +13,7 @@ const poppins = Poppins({
 
 interface NavbarItemProps {
 	href: string;
-	children: string; // Changed to string since navbarItems uses strings
+	children: string; 
 	isActive: boolean;
 }
 
@@ -83,3 +83,4 @@ export const Navbar = () => {
 		</nav>
 	);
 };
+ 
